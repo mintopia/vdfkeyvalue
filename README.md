@@ -1,4 +1,4 @@
-# VDFKeyValue - Encoder for Valve Software's KeyValue data form
+# VDFKeyValue - Valve KeyValue Format Encoder
 
 This library encodes native PHP data in to Valve Software's VDF KeyValue
 format. This is used by the Source engine and many SourceMod mods.
