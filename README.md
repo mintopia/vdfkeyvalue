@@ -1,5 +1,8 @@
 # VDFKeyValue - Valve KeyValue Format Encoder
 
+[![Total Downloads](https://img.shields.io/packagist/dt/mintopia/vdfkeyvalue.svg)](https://packagist.org/packages/mintopia/vdfkeyvalue)
+[![Reference Status](https://www.versioneye.com/php/mintopia:vdfkeyvalue/reference_badge.svg)](https://www.versioneye.com/php/mintopia:vdfkeyvalue/references)
+
 This library encodes native PHP data in to Valve Software's VDF KeyValue
 format. This is used by the Source engine and many SourceMod mods.
 
