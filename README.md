@@ -20,7 +20,7 @@ PSR-4 compatible autoloader.
 ```php
 <?php
 
-use Mintopia\VDFKeyValue;
+use Mintopia\VDFKeyValue\Encoder;
 
 // Create a new instance of the encoder and use it
 $encoder = new Encoder;
@@ -40,7 +40,7 @@ associative arrays before encoding.
 ```php
 <?php
 
-use Mintopia\VDFKeyValue;
+use Mintopia\VDFKeyValue\Encoder;
 
 $maps = new \stdClass;
 $maps->payload = 'pl_goldrush';
