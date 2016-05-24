@@ -1,0 +1,20 @@
+{
+    "name": "mintopia/vdfkeyvalue",
+    "description": "Encoder for Valve Software's KeyValue data format",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jessica Smith",
+            "email": "jess@mintopia.net"
+        }
+    ],
+    "require": {
+        "php": ">=5.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mintopia\\VDFKeyValue\\": "src/"
+        }
+    }
+}
