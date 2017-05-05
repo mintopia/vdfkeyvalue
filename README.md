@@ -90,8 +90,8 @@ $ php example.php
 The format is a simple nested tree structure, similar to JSON but without
 arrays and requiring a root key.
 
- - [Valve Developer Wiki] (https://developer.valvesoftware.com/wiki/KeyValues)
- - [SourceMod Wiki] (https://wiki.alliedmods.net/KeyValues_%28SourceMod_Scripting%29)
+ - [Valve Developer Wiki](https://developer.valvesoftware.com/wiki/KeyValues)
+ - [SourceMod Wiki](https://wiki.alliedmods.net/KeyValues_%28SourceMod_Scripting%29)
 
 ### Submitting bugs and feature requests
 
